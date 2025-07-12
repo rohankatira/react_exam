@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to My Blog",
+      "description": "An introduction to my new blog.",
+      "date": "2024-06-01",
+      "image": "https://avatars.mds.yandex.net/i?id=e76905e1423052256da8acfe5b966722-5302491-images-thumbs&n=13",
+      "category": "Introduction",
+      "content": "This is the first post on my blog using JSON Server."
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with JSON Server",
+      "description": "A guide to quickly set up JSON Server.",
+      "date": "2024-06-02",
+      "image": "https://example.com/image2.jpg",
+      "category": "Tutorial",
+      "content": "JSON Server lets you create a fake REST API quickly."
+    },
+    {
+      "id": "dc1e",
+      "title": "Irure iusto et dolor",
+      "description": "Commodo voluptas et ",
+      "date": "2020-12-31",
+      "image": "Reiciendis officia h",
+      "category": "Do sit praesentium u",
+      "content": "Inventore fuga Mini"
+    }
+  ]
+}
