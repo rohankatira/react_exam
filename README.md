@@ -1,7 +1,3 @@
-Here's a professional and informative **GitHub README.md** file for your React blog post management app, deployed at [https://react-exam-pearl.vercel.app/](https://react-exam-pearl.vercel.app/):
-
----
-
 ```markdown
 # 📝 React Blog Post Manager
 
